@@ -14,6 +14,6 @@ styles.css: The CSS file responsible for styling the elements and layout of the 
 scripts.js: The JavaScript file containing interactive functionalities and behavior for the landing page.
 
 # Preview
-![preview]()
+![preview](https://github.com/SANJAYSS-SRM-26/Blog-Landing-Page/blob/main/preview.png)
 # Usage
 To use the blog landing page, simply clone or download the repository to your local machine and open the index.html file in a web browser. You can customize the content, styles, and functionality according to your preferences by modifying the HTML, CSS, and JavaScript files.
